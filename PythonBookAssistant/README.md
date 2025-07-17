@@ -1,4 +1,4 @@
-1. Clone or extract the PythonBookAssistant project folder.
+1. Clone or extract the PythonBookAssistant project folder. And create two folders in the assistant folder. One named cache and one named docs.
 
 2. Navigate to the project directory.
 
